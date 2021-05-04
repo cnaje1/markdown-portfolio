@@ -1,6 +1,4 @@
----
-layout: default
----
-
-{% include 01-name.md %}
+# CHRISTINA
+## this is a post
+### smaller text
 
