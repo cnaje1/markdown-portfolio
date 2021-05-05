@@ -11,7 +11,3 @@ layout: default
 <br>
 
 {% include 03-links.md %}
-
-git fetch origin
-git checkout -b add-images-links origin/add-images-links
-git merge main
